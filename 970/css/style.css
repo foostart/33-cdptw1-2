@@ -1,0 +1,191 @@
+@import "../css/font.css";
+.mod_custom_27 #slider {
+  width: 500px;
+}
+.mod_custom_27 #slider li {
+  width: 250px;
+}
+.mod_custom_27 * {
+  margin: 0;
+  padding: 0;
+}
+.mod_custom_27 body {
+  font: 16px/1.4 'PT Sans', sans-serif;
+}
+.mod_custom_27 .demo-title {
+  text-align: center;
+  color: #a71700;
+  text-transform: uppercase;
+  padding: 60px 0 0;
+  font-size: 60px;
+}
+.mod_custom_27 .intro {
+  text-align: center;
+  margin: 0 auto 20px;
+  width: 50%;
+}
+.mod_custom_27 .main-nav {
+  display: block;
+  text-align: center;
+  border-bottom: 2px solid #a71700;
+  margin: 0 0 20px 0;
+  padding: 0 0 10px 0;
+}
+.mod_custom_27 .main-nav a {
+  text-decoration: none;
+  color: #3e63ec;
+  font-size: 18px;
+  margin: 0 8px;
+}
+.mod_custom_27 .main-nav a:hover {
+  color: black;
+  border-bottom: 2px solid black;
+}
+.mod_custom_27 #title {
+  text-align: center;
+}
+.mod_custom_27 #title img {
+  border: 0;
+}
+.mod_custom_27 .mb-inside img {
+  width: 100%;
+}
+.mod_custom_27 .mb-inside a {
+  color: #333;
+  text-decoration: none;
+  border-bottom: 1px dotted #ccc;
+}
+.mod_custom_27 .mb-inside a:hover {
+  border-bottom: 1px solid #999;
+}
+.mod_custom_27 .buttons {
+  padding: 5px 10px;
+  text-align: center;
+}
+.mod_custom_27 .dlinks {
+  text-align: center;
+  margin: 0 0 20px 0;
+}
+.mod_custom_27 .dlinks * {
+  vertical-align: middle;
+}
+.mod_custom_27 .mb-left-shadow,
+.mod_custom_27 .mb-right-shadow {
+  background: repeat-y scroll 0 0;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+.mod_custom_27 .mb-left-shadow {
+  background-image: url("../images/leftshadow.png");
+  left: 0;
+}
+.mod_custom_27 .mb-right-shadow {
+  background-image: url("../images/rightshadow.png");
+  right: 0;
+}
+.mod_custom_27 a.mb-scrollButtons {
+  background: url(../images/arrows.gif) no-repeat;
+  margin: 0;
+  top: 40%;
+  zoom: 1;
+}
+.mod_custom_27 .mb-wrapper {
+  border: 5px solid #ccc;
+  margin: 0 auto 20px;
+  position: relative;
+  left: 0;
+  top: 0;
+  border-radius: 10px;
+  box-shadow: inset 0 0 10px #888;
+}
+.mod_custom_27 .mb-slider,
+.mod_custom_27 .mb-scroll {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+  left: 0;
+  top: 0;
+  font-size: 18px;
+}
+.mod_custom_27 .mb-active-slider {
+  border-color: #333;
+}
+.mod_custom_27 .mb-slider .mb-panel {
+  margin: 0;
+  padding: 20px;
+  display: block;
+  cursor: pointer;
+  float: left;
+  list-style: none;
+}
+.mod_custom_27 .mb-slider .mb-panel.current {
+  cursor: auto;
+}
+.mod_custom_27 .mb-inside {
+  padding: 10px;
+  border: 1px solid #999;
+}
+.mod_custom_27 .mb-inside * {
+  max-width: 100%;
+}
+.mod_custom_27 a.mb-scrollButtons {
+  display: block;
+  width: 45px;
+  height: 58px;
+  background: transparent url(../images/arrows.png) no-repeat;
+  position: absolute;
+  top: 50%;
+  margin-top: -29px;
+  cursor: pointer;
+  text-decoration: none;
+  outline: 0;
+  border: 0;
+}
+.mod_custom_27 a.mb-scrollButtons.mb-left {
+  background-position: left top;
+  left: -45px;
+}
+.mod_custom_27 a.mb-scrollButtons.mb-right {
+  background-position: right top;
+  right: -45px;
+}
+.mod_custom_27 a.mb-scrollButtons.mb-left:hover {
+  background-position: left bottom;
+}
+.mod_custom_27 a.mb-scrollButtons.mb-right:hover {
+  background-position: right bottom;
+}
+.mod_custom_27 a.mb-scrollButtons.disabled {
+  display: none;
+}
+.mod_custom_27 .mb-controls {
+  margin: 0 auto;
+  text-align: center;
+  background: #ccc;
+  position: relative;
+  z-index: 100;
+}
+.mod_custom_27 .mb-controls a {
+  color: #666;
+  font: 18px/2.2 Georgia, Serif;
+  display: inline-block;
+  text-decoration: none;
+  padding: 2px;
+  margin: 0 5px 0 0;
+  text-align: center;
+  outline: 0;
+}
+.mod_custom_27 .mb-controls a:hover {
+  color: black;
+}
+.mod_custom_27 .mb-controls a.current {
+  color: white;
+}
+.mod_custom_27 .mb-active-slider .mb-controls {
+  background: #333;
+}
