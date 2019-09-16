@@ -1,0 +1,72 @@
+.type-2021 .top-header {
+  background: #ecd091;
+}
+.type-2021 .About h1 {
+  font-family: "UTM Aristote";
+  color: orange;
+  border-bottom: 1px solid orange;
+}
+.type-2021 .About .col-md-6 {
+  border: none;
+}
+.type-2021 .About .col-md-6 h2 {
+  font-family: "UTM Alexander";
+}
+.type-2021 .About .col-md-6 h5 {
+  margin: -15px 0;
+  font-size: 14px;
+}
+.type-2021 .About .col-md-6 p {
+  font-size: 14px;
+  margin: 10px 0;
+  color: orange;
+}
+.type-2021 .img-responsive {
+  margin: 15px 0;
+}
+.type-2021 .New h1 {
+  font-family: "UTM Aristote";
+  margin-top: 10px;
+  border-bottom: 1px solid orange;
+  color: orange;
+}
+.type-2021 .New h4 {
+  text-align: center;
+  border: 1px solid white;
+  color: white;
+  font-size: 2em;
+}
+.type-2021 .New p {
+  text-align: center;
+  color: orange;
+}
+.type-2021 .New .img-responsive {
+  border: 1px dotted lightblue;
+  padding: 5px 5px;
+}
+.type-2021 .New img:hover {
+  -webkit-transition: all 0.7s ease;
+  -transiton: all 0.5s ease;
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.type-2021 .Event h4 {
+  text-align: center;
+  border: 1px solid white;
+  color: white;
+  font-size: 2em;
+}
+.type-2021 .Event p {
+  text-align: center;
+  color: orange;
+}
+.type-2021 .Event .img-responsive {
+  border: 1px dotted lightblue;
+  padding: 5px 5px;
+}
+.type-2021 .Event img:hover {
+  -webkit-transition: all 0.7s ease;
+  -transiton: all 0.5s ease;
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}

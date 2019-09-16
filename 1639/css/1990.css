@@ -1,0 +1,75 @@
+.type-1990 .navbar-default {
+  background: none;
+  border: none;
+}
+.type-1990 .navbar-default .navbar-nav li {
+  padding: 12px;
+}
+.type-1990 .navbar-default .navbar-nav .active a:hover {
+  color: orange;
+  background-color: #fff;
+  border-bottom: 2px solid orange;
+}
+.type-1990 .navbar-default .navbar-nav .active a {
+  background: none;
+}
+.type-1990 .logo .col-md-3 {
+  font-size: 1em;
+  margin-top: 100px;
+}
+.type-1990 .logo .col-md-3 .col-md-9 {
+  float: right;
+  border: 1px solid gray;
+}
+.type-1990 .logo .col-md-4 h3 {
+  color: #ba3333;
+  font-family: 'UTM A&S Graceland';
+  text-align: center;
+}
+.type-1990 .logo .col-md-4 p {
+  text-align: center;
+}
+.type-1990 .logo img:hover {
+  -webkit-transition: all 0.7s ease;
+  -transiton: all 0.5s ease;
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  color: #ba3333;
+}
+.type-1990 .cart {
+  border-bottom: 1px solid gray;
+  margin-top: 50px;
+}
+.type-1990 .About {
+  margin: 50px;
+}
+.type-1990 .About .col-md-4 .img-responsive {
+  border: 1px dotted lightgray;
+  padding: 5px 5px;
+}
+.type-1990 .About .col-md-4 h4 {
+  color: orange;
+  text-align: center;
+  font-family: "UTM Aristote";
+}
+.type-1990 .cast {
+  border-bottom: 1px solid gray;
+  margin-top: 30px;
+}
+.type-1990 img:hover {
+  -webkit-transition: all 0.7s ease;
+  -transiton: all 0.5s ease;
+  -webkit-transform: scale(1.3);
+  transform: scale(1.3);
+  color: #ba3333;
+}
+.type-1990 footer {
+  margin: 30px;
+  text-align: center;
+  font-family: "UTM Aristote";
+}
+@media screen and (max-width: 768px) {
+  .type-1990 footer {
+    text-align: center;
+  }
+}
