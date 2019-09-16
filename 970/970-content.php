@@ -2,12 +2,14 @@
 
 <html>
     <head>
-        <title>TODO supply a title</title>
+        <title>BLOCK 970</title>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+        <link href="css/swiper.min.css" rel="stylesheet" type="text/css"/>
         <link href="css/style.css" rel="stylesheet" type="text/css"/>
-            
+       
         <?php
+        
         if (!class_exists('lessc')) {
             include ('./libs/lessc.inc.php');
         }
@@ -19,12 +21,12 @@
         <script src="js/jquery-1.8.0.min.js" type="text/javascript"></script>
         <script src="js/jquery.movingboxes.js" type="text/javascript"></script>
         <script src="js/script.js" type="text/javascript"></script>
-
+        <script src="js/swiper.min.js" type="text/javascript"></script>
 
     </head>
 
     <body>
-        <div class="mod_custom_27">
+        <div class="mod_custom-970">
             <div id="wrapper">
 
                 <!-- MovingBoxes Slider -->
@@ -39,7 +41,7 @@
                     <li>
                         <img src="images/2.jpg" alt="picture">
                         <h2>News Heading</h2>
-                        <p>Add a short exerpt here... <a href="#">more</a> and a whole lot more text goes here, so we can see the height adjust.</p>
+                        <p>Add a short exerpt here... <a href="#">more</a> 
                     </li>
 
                     <li>
