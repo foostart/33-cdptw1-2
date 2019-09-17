@@ -50,6 +50,9 @@
 .mod_custom-970 .mb-inside img {
   width: 100%;
 }
+.mod_custom-970 #slider-two .current img {
+  height: 326px;
+}
 .mod_custom-970 .mb-inside a {
   color: #333;
   text-decoration: none;
