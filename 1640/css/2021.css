@@ -1,5 +1,5 @@
 .type-2021 .top-header {
-  background: #ecd091;
+  background: none;
 }
 .type-2021 .About h1 {
   font-family: "UTM Aristote";
@@ -33,12 +33,13 @@
 .type-2021 .New h4 {
   text-align: center;
   border: 1px solid white;
+  background: lightgray;
   color: white;
   font-size: 2em;
 }
 .type-2021 .New p {
-  text-align: center;
-  color: orange;
+  text-align: left;
+  color: #bfadad;
 }
 .type-2021 .New .img-responsive {
   border: 1px dotted lightblue;
@@ -53,12 +54,13 @@
 .type-2021 .Event h4 {
   text-align: center;
   border: 1px solid white;
+  background: lightgray;
   color: white;
   font-size: 2em;
 }
 .type-2021 .Event p {
-  text-align: center;
-  color: orange;
+  text-align: left;
+  color: #bfadad;
 }
 .type-2021 .Event .img-responsive {
   border: 1px dotted lightblue;
