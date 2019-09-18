@@ -2,7 +2,6 @@
     <body>
         <div class="mod_custom-970">
             <div id="wrapper">
-
                 <!-- MovingBoxes Slider -->
                 <ul id="slider">
 
@@ -48,4 +47,3 @@
         </div>
     </body>
 
-</html>
