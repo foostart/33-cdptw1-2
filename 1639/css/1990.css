@@ -1,3 +1,6 @@
+.type-1990 {
+  background: pink;
+}
 .type-1990 .navbar-default {
   background: none;
   border: none;
@@ -32,7 +35,7 @@
 .type-1990 .logo img:hover {
   -webkit-transition: all 0.7s ease;
   -transiton: all 0.5s ease;
-  -webkit-transform: scale(1.1);
+  -webkit-transform: scale(0.1);
   transform: scale(1.1);
   color: #ba3333;
 }
