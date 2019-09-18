@@ -6,7 +6,7 @@
   padding: 12px;
 }
 .type-1990 .navbar-default .navbar-nav .active a:hover {
-  color: orange;
+  color: pink;
   background-color: #fff;
   border-bottom: 2px solid orange;
 }

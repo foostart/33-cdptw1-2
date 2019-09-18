@@ -1,5 +1,4 @@
-
-   <body>
+ <body>
       <section class="type-1990">
           <header class="top-header">
 		<div class="container">
@@ -9,7 +8,7 @@
 						<div class="col-md-6">
 						</div>
 						<div class="col-md-6">
-							<nav class="navbar navbar-default" role="navigation">
+						<div class="navbar navbar-default" role="navigation">
 								<ul class="nav navbar-nav">
 									<li class="active" ><a href="#"><i class="fa fa-home"></i>Home</a></li>
 		 
@@ -21,7 +20,7 @@
 
 									<li class="active" ><a href="#"><i class="fa fa-envelope"></i>Contact</a></li>
 								</ul>
-							</nav>
+</div>
 						</div>
 					</div>
 				</div>
@@ -97,11 +96,12 @@
 				</div>
 			</div>
 		</div>
-	</div>
+</div>
+</div>
+	
 	<!--end About-->
 	<div class="cast">
-		
-	</div>
+</div>		
 	<!--foot-->
 	<footer>
 		<div class="container">
@@ -109,6 +109,5 @@
 		</div>
 	</footer>
 	<!--end foot-->
-      </section>
-   </body>
-</html>
+	</section>
+</body>
