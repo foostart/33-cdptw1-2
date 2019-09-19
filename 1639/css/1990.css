@@ -1,6 +1,3 @@
-.type-1990 {
-  background: pink;
-}
 .type-1990 .navbar-default {
   background: none;
   border: none;
@@ -9,8 +6,8 @@
   padding: 12px;
 }
 .type-1990 .navbar-default .navbar-nav .active a:hover {
-  color: pink;
-  background-color: #fff;
+  color: black;
+  background-color: none;
   border-bottom: 2px solid orange;
 }
 .type-1990 .navbar-default .navbar-nav .active a {
@@ -33,6 +30,7 @@
   text-align: left;
 }
 .type-1990 .logo img:hover {
+  opacity: 0.5;
   -webkit-transition: all 0.7s ease;
   -transiton: all 0.5s ease;
   -webkit-transform: scale(0.1);
@@ -60,11 +58,7 @@
   margin-top: 30px;
 }
 .type-1990 img:hover {
-  -webkit-transition: all 0.7s ease;
-  -transiton: all 0.5s ease;
-  -webkit-transform: scale(1.3);
-  transform: scale(1.3);
-  color: #ba3333;
+  opacity: 0.5;
 }
 .type-1990 footer {
   margin: 30px;

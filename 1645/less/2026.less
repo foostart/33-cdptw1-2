@@ -1,4 +1,5 @@
 .type-2026{ 
+
     .navbar-default {
         
         border: none;
@@ -18,12 +19,24 @@
                 }
             }
         }
+        img{
+            opacity: 0.5;
+        }
+        .img-responsive:hover{
+            
+            -webkit-transition: all 0.7s ease;
+                -transiton: all 0.5s ease;
+                -webkit-transform: scale(0.1);
+                transform: scale(1.1);
+               
+        }
+      
         .navbar-nav{
             li{
                 text-align: center;
                 a {
                     font-size: 17px;
-                    color: #fff;
+                    color: pink;
                     display: block;
                     padding: 7px 0 8px;
                     padding: 31px 16px 27px;
@@ -32,10 +45,10 @@
                 }
                 a:hover{
                     font-family: UMT Azuki;
-                    color: green;
+                    color: orange;
                     border-bottom: 1px solid green;
                     text-decoration: none;
-                    background-color: #fff;
+                    background-color: none;
                     
                    
                 }
@@ -54,7 +67,9 @@
                     transition: transform 250ms ease-in-out;
                    
                 }
+                
                 .dropdown-menu{
+                    
                     border-radius: none;
                    right: auto;
                     left: 0;

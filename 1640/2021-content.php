@@ -75,6 +75,7 @@
 				<div class="row">
 					<div class="col-md-3  col-xs-6">
 						<img src="images/7.jpg" alt="" class="img-responsive">
+						
 					</div>
 					<div class="col-md-3  col-xs-6">
 						<h4>24th<br>

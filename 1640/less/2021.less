@@ -32,7 +32,18 @@
     }
 }
 .img-responsive{
-	margin: 15px 0;
+
+    margin: 15px 0;
+    
+}
+.img-responsive:hover{
+    opacity: 0.5;
+}
+img:hover{
+    -webkit-transition: all 0.7s ease;
+    -transiton: all 0.5s ease;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
 }
 /*end About*/
 /*New*/
@@ -58,7 +69,11 @@
         }
         .img-responsive{
 	border:1px dotted lightblue;
-	padding: 5px 5px;
+    padding: 5px 5px;
+    
+        }
+       .img-responsive:hover{
+           opacity: 0.50;
         }
         img:hover{
                 -webkit-transition: all 0.7s ease;
@@ -88,6 +103,10 @@
 	border:1px dotted lightblue;
 	padding: 5px 5px;
     }
+    .img-responsive:hover{
+        opacity: 0.5;
+        
+        }
     img:hover{
                 -webkit-transition: all 0.7s ease;
                 -transiton: all 0.5s ease;

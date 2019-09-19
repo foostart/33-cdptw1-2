@@ -36,7 +36,7 @@
     <script src="js/script.js" type="text/javascript"></script>
 </head>
 <body>
-     <?php include '../2022/2022-content.php'; ?>
+     <?php include '../1641/2022-content.php'; ?>
     <script src="./js/swiper-4.5.0/dist/js/swiper.min.js"></script>
     <script src="js/2022.js" type="text/javascript"></script>
 </body>
