@@ -1,6 +1,5 @@
-
-    <body> 
-        <div class="type-2026 " >
+   <body> 
+        <div class="type-2026 " style="background: url(images/site_bg.jpg);">
             <!--BEGIN MENU -->
             <nav class="navbar-default" >
                 <div class="container">
@@ -81,13 +80,13 @@
                                     <li><a href="#">789</a></li>
                                 </ul>
                             </li>
-                          
+                          </ul>
                     </div>
                     <!--END MENU RIGHT-->
                 </div>
             </nav>
             <!--END MENU -->
         </div>
-        
+        <script src="js/scripts.js" ></script>
     </body>
 
