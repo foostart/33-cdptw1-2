@@ -39,5 +39,17 @@ $less->compileFile('less/2022.less', 'css/2022.css');
      <?php include '../1641/2022-content.php'; ?>
     <script src="./js/swiper-4.5.0/dist/js/swiper.min.js"></script>
     <script src="js/2022.js" ></script>
-
+    <!-- Initialize Swiper -->
+    <script>
+    var swiper = new Swiper('.swiper-container', {
+      pagination: {
+        el: '.swiper-pagination',
+        type: 'fraction',
+      },
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+    });
+  </script>
 </html>

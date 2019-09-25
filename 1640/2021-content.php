@@ -27,7 +27,7 @@
 										saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.</p>
 									<br>
 								</div>
-								<div class="col-md-6 col-xs-12">
+								<div class="col-md-6 col-xs-12 hinh">
 									<img src="images/1.jpg" alt="" class="img-responsive">
 								</div>
 							</div>
@@ -42,10 +42,12 @@
 			<div class="New">
 				<h1>New & Event</h1>
 				<div class="row">
-					<div class="col-md-3 col-xs-6">
+				<div class="col-md-6 col-sm-12 col-xs-12">
+
+					<div class="col-md-6 col-sm-6 col-xs-6">
 						<img src="images/8.jpg" alt="" class="img-responsive">
 					</div>
-					<div class="col-md-3 col-xs-6">
+					<div class="col-md-6 col-sm-6 col-xs-6">
 						<h4>24th<br>
 							July</h4>
 						<p>Temporibus autem quibusdam et<br>
@@ -53,16 +55,19 @@
 							necessitatibus saepe eveniet ut<br>
 							et voluptates repudiandae.</p>
 					</div>
-					<div class="col-md-3 col-xs-6">
+					</div>
+					<div class="col-md-6 col-sm-12 col-xs-12">
+					<div class="col-md-6 col-sm-6 col-xs-6">
 						<img src="images/9.jpg" alt="" class="img-responsive">
 					</div>
-					<div class="col-md-3 col-xs-6">
+					<div class="col-md-6 col-sm-6 col-xs-6">
 						<h4>24th<br>
 							July</h4>
 						<p>Temporibus autem quibusdam et<br>
 							aut officiis debitis aut rerum<br>
 							necessitatibus saepe eveniet ut<br>
 							et voluptates repudiandae.</p><br>
+					</div>
 					</div>
 					<!--end New-->
 				</div>
@@ -73,11 +78,13 @@
 		<div class="container">
 			<div class="Event">
 				<div class="row">
-					<div class="col-md-3  col-xs-6">
+				<div class="col-md-6 col-sm-12 col-xs-12">
+						<div class="col-md-6 col-sm-6 col-xs-6">
 						<img src="images/7.jpg" alt="" class="img-responsive">
 						
 					</div>
-					<div class="col-md-3  col-xs-6">
+
+				<div class="col-md-6 col-sm-6 col-xs-6">
 						<h4>24th<br>
 							July</h4>
 						<p>Temporibus autem quibusdam et<br>
@@ -85,10 +92,12 @@
 							necessitatibus saepe eveniet ut<br>
 							et voluptates repudiandae.</p>
 					</div>
-					<div class="col-md-3 col-xs-6">
+					</div>
+					<div class="col-md-6 col-sm-12 col-xs-12">
+						<div class="col-md-6 col-sm-6 col-xs-6">
 						<img src="images/10.jpg" alt="" class="img-responsive">
 					</div>
-					<div class="col-md-3 col-xs-6">
+					<div class="col-md-6 col-sm-6 col-xs-6">
 						<h4>24th<br>
 							July</h4>
 						<p>Temporibus autem quibusdam et<br>

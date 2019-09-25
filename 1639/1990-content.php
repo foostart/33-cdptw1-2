@@ -3,11 +3,14 @@
           <header class="top-header">
 		<div class="container">
 			<div class="row">
+				
 				<div class="col-md-12">
 					<div class="row">
 						<div class="col-md-6">
 						</div>
+						
 						<div class="col-md-6">
+							
 						<div class="navbar navbar-default" role="navigation">
 								<ul class="nav navbar-nav">
 									<li class="active" ><a href="#"><i class="fa fa-home"></i>Home</a></li>
@@ -105,9 +108,24 @@
 	<!--foot-->
 	<footer>
 		<div class="container">
-			<p>Module 1990</p>
+			<p>Module 1939</p>
 		</div>
 	</footer>
 	<!--end foot-->
 	</section>
+	<script>
+    var swiper = new Swiper('.swiper-container', {
+      // Enable lazy loading
+      lazy: true,
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+    });
+  </script>
 </body>
+

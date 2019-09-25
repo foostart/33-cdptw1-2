@@ -1,10 +1,22 @@
+.img-responsive {
+  cursor: pointer;
+}
 .type-2021 .top-header {
   background: none;
+}
+.type-2021 h2 {
+  cursor: pointer;
+}
+.type-2021 h2:hover {
+  color: #bfadad;
 }
 .type-2021 .About h1 {
   font-family: "UTM Aristote";
   color: orange;
   border-bottom: 1px solid orange;
+}
+.type-2021 .About h1 .hinh {
+  cursor: pointer;
 }
 .type-2021 .About .col-md-6 {
   border: none;
@@ -40,11 +52,15 @@
   color: orange;
 }
 .type-2021 .New h4 {
+  cursor: pointer;
   text-align: center;
   border: 1px solid white;
   background: lightgray;
   color: white;
   font-size: 2em;
+}
+.type-2021 .New h4:hover {
+  background: pink;
 }
 .type-2021 .New p {
   text-align: left;
@@ -63,12 +79,16 @@
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
+.type-2021 .Event h4:hover {
+  background: pink;
+}
 .type-2021 .Event h4 {
   text-align: center;
   border: 1px solid white;
   background: lightgray;
   color: white;
   font-size: 2em;
+  cursor: pointer;
 }
 .type-2021 .Event p {
   text-align: left;
