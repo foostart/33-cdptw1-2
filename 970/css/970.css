@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.type-970 .swiper-container .swiper-button-prev:after,
+.type-970 .swiper-container .swiper-button-next:after {
+  font-size: 20px;
+}
+.type-970 .swiper-container .swiper-button-prev {
+  left: 0px !important;
+  color: ;
+}
+.type-970 .swiper-container .swiper-button-next {
+  right: 0px !important;
+  color: ;
+}
+.type-970 .swiper-container .swiper-button-prev:hover {
+  left: 0px !important;
+  color: #2eb8e2;
+}
+.type-970 .swiper-container .swiper-button-next:hover {
+  right: 0px !important;
+  color: #2eb8e2;
+}
+.type-970 .swiper-container .swiper-wrapper .swiper-slide {
+  height: 300px;
+  width: 200px;
+  text-align: center;
+  overflow: hidden;
+}
+.type-970 .swiper-container .swiper-wrapper .swiper-slide a {
+  color: black;
+  text-decoration: none;
+}
+.type-970 .swiper-container .swiper-wrapper .swiper-slide:hover {
+  background: #ffffff;
+}

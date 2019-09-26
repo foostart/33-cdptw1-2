@@ -1,48 +1,65 @@
+﻿<?php
+    $url_host = 'http://'.$_SERVER['HTTP_HOST'];
+    $pattern_document_root = addcslashes(realpath($_SERVER['DOCUMENT_ROOT']), '\\');
+    $pattern_uri = '/' . $pattern_document_root . '(.*)$/';
+    
+    preg_match_all($pattern_uri, __DIR__, $matches);
+    $url_path = $url_host . $matches[1][0];
+    $url_path = str_replace('\\', '/', $url_path);
+?>
 
-    <body>
-        <div class="mod_custom-970">
-            <div id="wrapper">
-                <!-- MovingBoxes Slider -->
-                <ul id="slider">
+    <div class="type-970">
+    
 
-                    <li>
-                        <img src="images/1.jpg" alt="picture">
-                        <h2>News Heading</h2>
-                        <p>Add a short exerpt here... <a href="#">more</a></p>
-                    </li>
+ 
+                <!--..-->
+                <div class="container">
+                <div class="swiper-container">
 
-                    <li>
-                        <img src="images/2.jpg" alt="picture">
-                        <h2>News Heading</h2>
-                        <p>Add a short exerpt here... <a href="#">more</a> 
-                    </li>
+<div class="swiper-wrapper nav nav-tabs">
 
-                    <li>
-                        <img src="images/3.jpg" alt="picture">
-                        <h2>News Heading</h2>
-                        <p>Add a short exerpt here... <a href="#">more</a></p>
-                    </li>
+                <div class="swiper-slide"> <img src="images/1.jpg" alt="picture">
+                <h2>News Heading</h2>
+                <p>Add a short exerpt here... <a href="#">more</a></p>
+            </div>
+                <div class="swiper-slide"> <img src="images/2.jpg" alt="picture">
+                <h2>News Heading</h2>
+                <p>Add a short exerpt here... <a href="#">more</a></p>
+            </div>
+                <div class="swiper-slide"> <img src="images/3.jpg" alt="picture">
+                <h2>News Heading</h2>
+                <p>Add a short exerpt here... <a href="#">more</a></p>
+            </div>
+                <div class="swiper-slide"> <img src="images/4.jpg" alt="picture">
+                <h2>News Heading</h2>
+                <p>Add a short exerpt here... <a href="#">more</a></p>
+            </div>
+                <div class="swiper-slide"> <img src="images/5.jpg" alt="picture">
+                <h2>News Heading</h2>
+                <p>Add a short exerpt here... <a href="#">more</a></p>
+            </div>
+                <div class="swiper-slide"> <img src="images/6.jpg" alt="picture">
+                <h2>News Heading</h2>
+                <p>Add a short exerpt here... <a href="#">more</a></p>
+            </div>
+                <div class="swiper-slide"> <img src="images/7.jpg" alt="picture">
+                <h2>News Heading</h2>
+                <p>Add a short exerpt here... <a href="#">more</a></p>
+            </div>
+  
 
-                    <li>
-                        <img src="images/4.jpg" alt="picture">
-                        <h2>News Heading</h2>
-                        <p>Add a short exerpt here... <a href="#">more</a></p>
-                    </li>
+</div>
 
-                    <li>
-                        <img src="images/5.jpg" alt="picture">
-                        <h2>News Heading</h2>
-                        <p>Add a short exerpt here... <a href="#">more</a></p>
-                    </li>
+                                    <div class="swiper-pagination"></div>
 
-                    <li>
-                        <img src="images/6.jpg" alt="picture">
-                        <h2>News Heading</h2>
-                        <p>Add a short exerpt here... <a href="#">more</a></p>
-                    </li>
 
-                </ul><!-- end Slider #1 -->
+                                    <div class="swiper-button-prev"></div>
+                                    <div class="swiper-button-next"></div>
+</div>
 
-            </div><!-- end wrapper -->
-        </div>
-    </body>
+                  </div>
+        
+    </div>
+
+
+
