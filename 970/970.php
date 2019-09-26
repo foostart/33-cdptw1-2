@@ -28,7 +28,7 @@
         <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">
         <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
         <script src="<?php echo $url_path ?>/js/jquery-2.1.4.min.js" ></script>
-           <script src="<?php echo $url_path ?>/js/swiper.js" ></script>
+         
            <script src="https://unpkg.com/swiper/js/swiper.min.js"></script>
         <link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet">       
         <script src="<?php echo $url_path ?>/js/bootstrap.min.js" ></script>
