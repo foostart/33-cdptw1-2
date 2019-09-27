@@ -7,7 +7,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <link href="css/2026.css" rel="stylesheet" type="text/css"/>
+        <link href="css/1645.css" rel="stylesheet" type="text/css"/>
         <script src="js/jquery-1.11.2.min.js" ></script>
         <script src="js/bootstrap.min.js" ></script>
         <?php
@@ -15,10 +15,10 @@
             include ('./libs/lessc.inc.php');
         }
         $less = new lessc;
-        $less->compileFile('less/2026.less', 'css/2026.css');
+        $less->compileFile('less/1645.less', 'css/1645.css');
         ?>
         
 </head>
-<?php include '../1645/2026-content.php'; ?>
+<?php include '../1645/1645-content.php'; ?>
 
 </html>

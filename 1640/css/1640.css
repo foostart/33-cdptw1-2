@@ -1,57 +1,57 @@
 .img-responsive {
   cursor: pointer;
 }
-.type-2021 .top-header {
+.type-1640 .top-header {
   background: none;
 }
-.type-2021 h2 {
+.type-1640 h2 {
   cursor: pointer;
 }
-.type-2021 h2:hover {
+.type-1640 h2:hover {
   color: #bfadad;
 }
-.type-2021 .About h1 {
+.type-1640 .About h1 {
   font-family: "UTM Aristote";
   color: orange;
   border-bottom: 1px solid orange;
 }
-.type-2021 .About h1 .hinh {
+.type-1640 .About h1 .hinh {
   cursor: pointer;
 }
-.type-2021 .About .col-md-6 {
+.type-1640 .About .col-md-6 {
   border: none;
 }
-.type-2021 .About .col-md-6 h2 {
+.type-1640 .About .col-md-6 h2 {
   font-family: "UTM Alexander";
 }
-.type-2021 .About .col-md-6 h5 {
+.type-1640 .About .col-md-6 h5 {
   margin: -15px 0;
   font-size: 14px;
 }
-.type-2021 .About .col-md-6 p {
+.type-1640 .About .col-md-6 p {
   font-size: 14px;
   margin: 10px 0;
   color: orange;
 }
-.type-2021 .img-responsive {
+.type-1640 .img-responsive {
   margin: 15px 0;
 }
-.type-2021 .img-responsive:hover {
+.type-1640 .img-responsive:hover {
   opacity: 0.5;
 }
-.type-2021 img:hover {
+.type-1640 img:hover {
   -webkit-transition: all 0.7s ease;
   -transiton: all 0.5s ease;
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
-.type-2021 .New h1 {
+.type-1640 .New h1 {
   font-family: "UTM Aristote";
   margin-top: 10px;
   border-bottom: 1px solid orange;
   color: orange;
 }
-.type-2021 .New h4 {
+.type-1640 .New h4 {
   cursor: pointer;
   text-align: center;
   border: 1px solid white;
@@ -59,30 +59,30 @@
   color: white;
   font-size: 2em;
 }
-.type-2021 .New h4:hover {
+.type-1640 .New h4:hover {
   background: pink;
 }
-.type-2021 .New p {
+.type-1640 .New p {
   text-align: left;
   color: #bfadad;
 }
-.type-2021 .New .img-responsive {
+.type-1640 .New .img-responsive {
   border: 1px dotted lightblue;
   padding: 5px 5px;
 }
-.type-2021 .New .img-responsive:hover {
+.type-1640 .New .img-responsive:hover {
   opacity: 0.50;
 }
-.type-2021 .New img:hover {
+.type-1640 .New img:hover {
   -webkit-transition: all 0.7s ease;
   -transiton: all 0.5s ease;
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
-.type-2021 .Event h4:hover {
+.type-1640 .Event h4:hover {
   background: pink;
 }
-.type-2021 .Event h4 {
+.type-1640 .Event h4 {
   text-align: center;
   border: 1px solid white;
   background: lightgray;
@@ -90,18 +90,18 @@
   font-size: 2em;
   cursor: pointer;
 }
-.type-2021 .Event p {
+.type-1640 .Event p {
   text-align: left;
   color: #bfadad;
 }
-.type-2021 .Event .img-responsive {
+.type-1640 .Event .img-responsive {
   border: 1px dotted lightblue;
   padding: 5px 5px;
 }
-.type-2021 .Event .img-responsive:hover {
+.type-1640 .Event .img-responsive:hover {
   opacity: 0.5;
 }
-.type-2021 .Event img:hover {
+.type-1640 .Event img:hover {
   -webkit-transition: all 0.7s ease;
   -transiton: all 0.5s ease;
   -webkit-transform: scale(1.1);

@@ -9,7 +9,7 @@
             include ('libs/lessc.inc.php');
         }
         $less = new lessc;
-        $less->compileFile('less/2022.less', 'css/2022.css');
+        $less->compileFile('less/1641.less', 'css/1641.css');
         ?>
    <?php
 
@@ -27,18 +27,18 @@ if (!class_exists('lessc')) {
 }
 
 $less = new lessc;
-$less->compileFile('less/2022.less', 'css/2022.css');
+$less->compileFile('less/1641.less', 'css/1641.css');
 
 ?>
-    <link href="css/2022.css" rel="stylesheet" type="text/css"/>
+    <link href="css/1641.css" rel="stylesheet" type="text/css"/>
     <script src="js/jquery-1.5.1.min.js" type="text/javascript"></script>
     <script src="js/jquery.orbit-1.2.3.min.js" type="text/javascript"></script>
     <script src="js/script.js" type="text/javascript"></script>
 </head>
 
-     <?php include '../1641/2022-content.php'; ?>
+     <?php include '../1641/1641-content.php'; ?>
     <script src="./js/swiper-4.5.0/dist/js/swiper.min.js"></script>
-    <script src="js/2022.js" ></script>
+    <script src="js/1641.js" ></script>
     <!-- Initialize Swiper -->
     <script>
     var swiper = new Swiper('.swiper-container', {

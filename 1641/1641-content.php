@@ -8,7 +8,7 @@
     $url_path = str_replace('\\', '/', $url_path);
 ?>
  <body>
-<div class="type-2022" style=" background: url(images/site_bg.jpg);">
+<div class="type-1641" style=" background: url(images/site_bg.jpg);">
     <div class="container"> 
         <div class="swiper-container">
             <div class="swiper-wrapper">

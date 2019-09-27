@@ -1,5 +1,5 @@
    <body> 
-        <div class="type-2026 " style="background: url(images/site_bg.jpg);">
+        <div class="type-1645 " style="background: url(images/site_bg.jpg);">
             <!--BEGIN MENU -->
             <nav class="navbar-default" >
                 <div class="container">

@@ -1,41 +1,41 @@
-.type-1990 .navbar-default {
+.type-1639 .navbar-default {
   background: none;
   border: none;
 }
-.type-1990 .navbar-default .navbar-nav li {
+.type-1639 .navbar-default .navbar-nav li {
   padding: 12px;
 }
-.type-1990 .navbar-default .navbar-nav .active a:hover {
+.type-1639 .navbar-default .navbar-nav .active a:hover {
   color: black;
   background-color: none;
   border-bottom: 2px solid orange;
 }
-.type-1990 .navbar-default .navbar-nav .active a {
+.type-1639 .navbar-default .navbar-nav .active a {
   background: none;
 }
-.type-1990 .logo {
+.type-1639 .logo {
   cursor: pointer;
 }
-.type-1990 .logo .col-md-3 {
+.type-1639 .logo .col-md-3 {
   font-size: 1em;
   margin-top: 100px;
 }
-.type-1990 .logo .col-md-3 .col-md-9 {
+.type-1639 .logo .col-md-3 .col-md-9 {
   float: right;
   border: 1px solid gray;
 }
-.type-1990 .logo .col-md-4 h3:hover {
+.type-1639 .logo .col-md-4 h3:hover {
   color: black;
 }
-.type-1990 .logo .col-md-4 h3 {
+.type-1639 .logo .col-md-4 h3 {
   color: #ba3333;
   font-family: 'UTM A&S Graceland';
   text-align: left;
 }
-.type-1990 .logo .col-md-4 p {
+.type-1639 .logo .col-md-4 p {
   text-align: left;
 }
-.type-1990 .logo img:hover {
+.type-1639 .logo img:hover {
   opacity: 0.5;
   -webkit-transition: all 0.7s ease;
   -transiton: all 0.5s ease;
@@ -43,40 +43,40 @@
   transform: scale(1.05);
   color: #ba3333;
 }
-.type-1990 .cart {
+.type-1639 .cart {
   border-bottom: 1px solid gray;
   margin-top: 50px;
 }
-.type-1990 .About {
+.type-1639 .About {
   cursor: pointer;
   margin: 50px;
 }
-.type-1990 .About .col-md-4 .img-responsive {
+.type-1639 .About .col-md-4 .img-responsive {
   border: 1px dotted lightgray;
   padding: 5px 5px;
 }
-.type-1990 .About .col-md-4 h4:hover {
+.type-1639 .About .col-md-4 h4:hover {
   color: #ba3333;
 }
-.type-1990 .About .col-md-4 h4 {
+.type-1639 .About .col-md-4 h4 {
   color: orange;
   text-align: left;
   font-family: "UTM Aristote";
 }
-.type-1990 .cast {
+.type-1639 .cast {
   border-bottom: 1px solid gray;
   margin-top: 30px;
 }
-.type-1990 img:hover {
+.type-1639 img:hover {
   opacity: 0.5;
 }
-.type-1990 footer {
+.type-1639 footer {
   margin: 30px;
   text-align: center;
   font-family: "UTM Aristote";
 }
 @media screen and (max-width: 768px) {
-  .type-1990 footer {
+  .type-1639 footer {
     text-align: center;
   }
 }

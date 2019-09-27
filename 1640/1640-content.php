@@ -1,5 +1,5 @@
 <body>
-	<section class="type-2021">
+	<section class="type-1640">
 		<!--header-->
 		<header class="top-header">
 			<div class="container">

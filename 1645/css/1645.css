@@ -1,32 +1,32 @@
-.type-2026 .navbar-default {
+.type-1645 .navbar-default {
   border: none;
   border-radius: 0px;
   height: 80px;
 }
-.type-2026 .navbar-default .navbar-header .icon-bar {
+.type-1645 .navbar-default .navbar-header .icon-bar {
   background-color: #fff;
 }
-.type-2026 .navbar-default .navbar-header .logo-text {
+.type-1645 .navbar-default .navbar-header .logo-text {
   font-size: 30px;
   text-transform: uppercase;
   margin-top: 25px;
 }
-.type-2026 .navbar-default .navbar-header .logo-text .text-highlight {
+.type-1645 .navbar-default .navbar-header .logo-text .text-highlight {
   color: green;
 }
-.type-2026 .navbar-default img {
+.type-1645 .navbar-default img {
   opacity: 0.5;
 }
-.type-2026 .navbar-default .img-responsive:hover {
+.type-1645 .navbar-default .img-responsive:hover {
   -webkit-transition: all 0.7s ease;
   -transiton: all 0.5s ease;
   -webkit-transform: scale(0.1);
   transform: scale(1.1);
 }
-.type-2026 .navbar-default .navbar-nav li {
+.type-1645 .navbar-default .navbar-nav li {
   text-align: center;
 }
-.type-2026 .navbar-default .navbar-nav li a {
+.type-1645 .navbar-default .navbar-nav li a {
   font-size: 17px;
   color: black;
   display: block;
@@ -34,17 +34,17 @@
   padding: 31px 16px 27px;
   text-decoration: none;
 }
-.type-2026 .navbar-default .navbar-nav li a:hover {
+.type-1645 .navbar-default .navbar-nav li a:hover {
   font-family: UMT Azuki;
   color: orange;
   border-bottom: 1px solid green;
   text-decoration: none;
   background-color: none;
 }
-.type-2026 .navbar-default .navbar-nav li a:hover:before {
+.type-1645 .navbar-default .navbar-nav li a:hover:before {
   transform: scaleX(1);
 }
-.type-2026 .navbar-default .navbar-nav li a:before {
+.type-1645 .navbar-default .navbar-nav li a:before {
   border-bottom: 3px solid;
   display: block;
   content: '';
@@ -55,35 +55,35 @@
   transform: scaleX(0);
   transition: transform 250ms ease-in-out;
 }
-.type-2026 .navbar-default .navbar-nav li .dropdown-menu {
+.type-1645 .navbar-default .navbar-nav li .dropdown-menu {
   border-radius: none;
   right: auto;
   left: 0;
   padding: 0px 10px 0px 10px;
   margin-top: 0px;
 }
-.type-2026 .navbar-default .navbar-nav li .dropdown-menu li {
+.type-1645 .navbar-default .navbar-nav li .dropdown-menu li {
   width: 100%;
   padding: 7px 0 8px;
   border-bottom: 1px dotted #FF9000;
 }
-.type-2026 .navbar-default .navbar-nav li .dropdown-menu li a {
+.type-1645 .navbar-default .navbar-nav li .dropdown-menu li a {
   border: none;
   padding: 10px;
   text-decoration: none;
   color: #444;
 }
-.type-2026 .navbar-default .navbar-nav li .dropdown-menu li a:hover {
+.type-1645 .navbar-default .navbar-nav li .dropdown-menu li a:hover {
   color: #FF9000;
   background-color: #fff;
 }
-.type-2026 .navbar-default .navbar-nav .active-item a {
+.type-1645 .navbar-default .navbar-nav .active-item a {
   color: #fff;
 }
-.type-2026 .navbar-collapse {
+.type-1645 .navbar-collapse {
   color: #444;
   border: none;
 }
-.type-2026 .navbar-collapse .nav li a:hover {
+.type-1645 .navbar-collapse .nav li a:hover {
   color: green;
 }
