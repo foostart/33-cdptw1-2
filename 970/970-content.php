@@ -20,31 +20,31 @@
 
                 <div class="swiper-slide"> <img src="images/1.jpg" alt="picture">
                 <h2>News Heading</h2>
-                <p>Add a short exerpt here... <a href="#">more</a></p>
+               
             </div>
                 <div class="swiper-slide"> <img src="images/2.jpg" alt="picture">
                 <h2>News Heading</h2>
-                <p>Add a short exerpt here... <a href="#">more</a></p>
+               
             </div>
                 <div class="swiper-slide"> <img src="images/3.jpg" alt="picture">
                 <h2>News Heading</h2>
-                <p>Add a short exerpt here... <a href="#">more</a></p>
+               
             </div>
                 <div class="swiper-slide"> <img src="images/4.jpg" alt="picture">
                 <h2>News Heading</h2>
-                <p>Add a short exerpt here... <a href="#">more</a></p>
+               
             </div>
                 <div class="swiper-slide"> <img src="images/5.jpg" alt="picture">
                 <h2>News Heading</h2>
-                <p>Add a short exerpt here... <a href="#">more</a></p>
+                
             </div>
                 <div class="swiper-slide"> <img src="images/6.jpg" alt="picture">
                 <h2>News Heading</h2>
-                <p>Add a short exerpt here... <a href="#">more</a></p>
+               
             </div>
                 <div class="swiper-slide"> <img src="images/7.jpg" alt="picture">
                 <h2>News Heading</h2>
-                <p>Add a short exerpt here... <a href="#">more</a></p>
+               
             </div>
   
 

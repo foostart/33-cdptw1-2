@@ -28,6 +28,14 @@
   text-align: center;
   overflow: hidden;
 }
+.type-970 .swiper-container .swiper-wrapper .swiper-slide img:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}
+.type-970 .swiper-container .swiper-wrapper .swiper-slide h2:hover {
+  color: red;
+  cursor: pointer;
+}
 .type-970 .swiper-container .swiper-wrapper .swiper-slide a {
   color: black;
   text-decoration: none;
