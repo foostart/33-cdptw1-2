@@ -37,13 +37,7 @@
                 <div class="swiper-slide"> <img src="images/5.jpg" alt="picture">
                 <h2>News Heading</h2>
                 
-            </div>
-                <div class="swiper-slide"> <img src="images/6.jpg" alt="picture">
-                <h2>News Heading</h2>
-               
-            </div>
-                <div class="swiper-slide"> <img src="images/7.jpg" alt="picture">
-                <h2>News Heading</h2>
+          
                
             </div>
   
