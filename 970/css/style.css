@@ -1,0 +1,125 @@
+.module-970 #slider {
+  width: 500px;
+}
+.module-970 #slider li {
+  width: 250px;
+}
+.module-970 .mb-wrapper {
+  border: 5px solid #ccc;
+  margin: 0 auto 20px;
+  position: relative;
+  left: 0;
+  top: 0;
+  border-radius: 10px;
+  box-shadow: inset 0 0 10px #888;
+}
+.module-970 .mb-slider,
+.module-970 .mb-scroll {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+  left: 0;
+  top: 0;
+  font-size: 18px;
+}
+.module-970 .mb-active-slider {
+  border-color: #333;
+}
+.module-970 .mb-slider .mb-panel {
+  margin: 0;
+  padding: 20px;
+  display: -2;
+  cursor: pointer;
+  float: left;
+  list-style: none;
+}
+.module-970 .mb-slider .mb-panel.current {
+  cursor: auto;
+}
+.module-970 .mb-inside {
+  padding: 10px;
+  border: 1px solid #999;
+}
+.module-970 .mb-inside * {
+  max-width: 100%;
+}
+.module-970 a.mb-scrollButtons {
+  display: block;
+  width: 45px;
+  height: 58px;
+  background: transparent url(../images/arrows.png) no-repeat;
+  position: absolute;
+  top: 50%;
+  margin-top: -29px;
+  cursor: pointer;
+  text-decoration: none;
+  outline: 0;
+  border: 0;
+}
+.module-970 a.mb-scrollButtons.mb-left {
+  background-position: left top;
+  left: -45px;
+}
+.module-970 a.mb-scrollButtons.mb-right {
+  background-position: right top;
+  right: -45px;
+}
+.module-970 a.mb-scrollButtons.mb-left:hover {
+  background-position: left bottom;
+}
+.module-970 a.mb-scrollButtons.mb-right:hover {
+  background-position: right bottom;
+}
+.module-970 a.mb-scrollButtons.disabled {
+  display: none;
+}
+.module-970 .mb-controls {
+  margin: 0 auto;
+  text-align: center;
+  background: #ccc;
+  position: relative;
+  z-index: 100;
+}
+.module-970 .mb-controls a {
+  color: #666;
+  font: 18px/2.2 Georgia, Serif;
+  display: inline-block;
+  text-decoration: none;
+  padding: 2px;
+  margin: 0 5px 0 0;
+  text-align: center;
+  outline: 0;
+}
+.module-970 .mb-controls a.current {
+  color: white;
+}
+.module-970 .swiper-container {
+  width: 100%;
+  height: 100%;
+}
+.module-970 .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+@media only screen and (max-width: 500px) {
+  .swiper-container {
+    width: 100px;
+    height: 100px;
+  }
+}
