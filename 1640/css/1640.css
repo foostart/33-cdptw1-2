@@ -1,6 +1,3 @@
-.img-responsive {
-  cursor: pointer;
-}
 .type-1640 .top-header {
   background: none;
 }
@@ -42,7 +39,7 @@
 .type-1640 img:hover {
   -webkit-transition: all 0.7s ease;
   -transiton: all 0.5s ease;
-  -webkit-transform: scale(1.1);
+  -webkit-transform: scale(4.1);
   transform: scale(1.1);
 }
 .type-1640 .New h1 {
